@@ -1,1 +1,0 @@
-# Simple-CV-Calculator
